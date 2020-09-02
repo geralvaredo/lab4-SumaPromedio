@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lab4-app01"
+    }
+  },
+  "defaultProject": "lab4-app01",
+  "cli": {
+    "analytics": false
+  }
 }
